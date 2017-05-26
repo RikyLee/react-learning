@@ -103,5 +103,6 @@ ReactDOM.render(<App/>, document.getElementById('root')); //渲染到DOM节点�
 
 ```
 # 运行
+- 使用 npm install 安装依赖
 - 使用 npm run start 运行
 - 浏览器打开 http://localhost:8080 即可看到 页面显示 Hello world！
