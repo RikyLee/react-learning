@@ -7,4 +7,4 @@ React的组件使用特定的声明式样式书写，不像jQuery或其它传统
 
 React还非常快，这归功于Virtual DOM和幕后的diff算法。当数据改变时，React计算所需要操作的最少的DOM，然后高效的重新渲染组件。
 
-## 开发环境的搭建
+## [开发环境的搭建](https://github.com/aiguanglee/react-learning/tree/master/first#配置webpack)
